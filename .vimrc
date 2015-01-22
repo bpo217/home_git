@@ -2,6 +2,7 @@ let mapleader = ","
 inoremap <C-\> <ESC>
 command! W write
 command! Q q
+set guifont=AnonymousRegular:h18
 set colorcolumn=80
 set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
