@@ -2,8 +2,10 @@ let mapleader = ","
 inoremap <C-\> <ESC>
 command! W write
 command! Q q
+command! Qa qa
+command! Wa wa
 set guifont=AnonymousRegular:h18
-set colorcolumn=80
+set colorcolumn=100
 set noerrorbells visualbell t_vb=
 autocmd GUIEnter * set visualbell t_vb=
 
@@ -56,3 +58,8 @@ if !exists(":DiffOrig")
   command DiffOrig vert new | set bt=nofile | r ++edit # | 0d_ | diffthis
 		  \ | wincmd p | diffthis
 endif
+
+filetype plugin indent on
+
+set background=dark
+colorscheme one
