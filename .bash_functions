@@ -8,3 +8,4 @@ wult ()
   cd $ULTPATH
   vim .
 }
+
