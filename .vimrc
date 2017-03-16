@@ -62,4 +62,6 @@ endif
 filetype plugin indent on
 
 set background=dark
+" Enable in some odd environments where theme is not working
+" t_CO=256
 colorscheme one
