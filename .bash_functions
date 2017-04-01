@@ -3,9 +3,13 @@ cls ()
   tput reset
 }
 
-wult ()
+disk_vol ()
 {
-  cd $ULTPATH
-  vim .
+  df -h .
 }
 
+disk_cd ()
+{
+  du -h --max-depth=1 | sort -hr
+  ls -an
+}
