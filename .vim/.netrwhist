@@ -1,7 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =5
-let g:netrw_dirhist_1='/home/ubuntu/developer/go/src/livetocode.net/ult'
-let g:netrw_dirhist_2='/home/ubuntu/developer/go/src/livetocode.net/ult/data'
-let g:netrw_dirhist_3='/home/ubuntu/developer/go/src/livetocode.net/ult/data/model'
-let g:netrw_dirhist_4='/home/ubuntu/developer/go/src/livetocode.net/ult'
-let g:netrw_dirhist_5='/home/ubuntu'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/bpo/dev/ruby/ult/src'
+let g:netrw_dirhist_2='/home/bpo/dev/ruby/ult'
+let g:netrw_dirhist_3='/home/bpo/dev/ruby/ult/features'
+let g:netrw_dirhist_4='/home/bpo/dev/ruby/ult'
+let g:netrw_dirhist_5='/home/bpo/dev/ruby/ult/support'
+let g:netrw_dirhist_6='/home/bpo/dev/ruby/ult'
+let g:netrw_dirhist_7='/home/bpo/dev/ruby/ult/features'
+let g:netrw_dirhist_8='/home/bpo/dev/ruby/ult/features/support'
+let g:netrw_dirhist_9='/home/bpo/dev/ruby/ult'

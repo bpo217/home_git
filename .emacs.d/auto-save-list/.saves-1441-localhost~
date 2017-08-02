@@ -1,0 +1,16 @@
+/home/bpo/dev/ult/features/cli.feature
+/home/bpo/dev/ult/features/#cli.feature#
+/home/bpo/dev/ult/step_definitions/CliSteps.scala
+/home/bpo/dev/ult/step_definitions/#CliSteps.scala#
+/home/bpo/dev/ult/src/net/livetocode/ult/Translator.scala
+/home/bpo/dev/ult/src/net/livetocode/ult/#Translator.scala#
+/home/bpo/dev/ult/step_definitions/util/CliState.scala
+/home/bpo/dev/ult/step_definitions/util/#CliState.scala#
+/home/bpo/dev/ult/src/net/livetocode/ult/ValueNode.scala
+/home/bpo/dev/ult/src/net/livetocode/ult/#ValueNode.scala#
+/home/bpo/dev/ult/cTest.sh
+/home/bpo/dev/ult/#cTest.sh#
+/home/bpo/dev/sqlite/src/test/java/RunCukesTest.java
+/home/bpo/dev/sqlite/src/test/java/#RunCukesTest.java#
+/home/bpo/dev/ult/src/test/scala/RunCukesTest.scala
+/home/bpo/dev/ult/src/test/scala/#RunCukesTest.scala#
